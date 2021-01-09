@@ -12,16 +12,16 @@ This CLI (at the moment) application is a project I'm doing along with my subscr
 <div class="links">
 <ul?>
     <li>
-        <a href="https://youtu.be/-RN57Fe8Kk8">Part 1.1</a>
+        <a href="https://youtu.be/-RN57Fe8Kk8" target="_blank">Part 1.1</a>
     </li>
     <li>
-        <a href="https://youtu.be/HHSi68d_ik0">Part 1.2</a>
+        <a href="https://youtu.be/HHSi68d_ik0" target="_blank">Part 1.2</a>
     </li>
     <li>
-        <a href="https://youtu.be/Hy5Ms8g2ml4">Part 1.3</a>
+        <a href="https://youtu.be/Hy5Ms8g2ml4" target="_blank">Part 1.3</a>
     </li>
     <li>
-        <a href="https://youtu.be/JIyqiC8pLfA">Part 1.4</a>
+        <a href="https://youtu.be/JIyqiC8pLfA" target="_blank">Part 1.4</a>
     </li>
 </ul>
 </div>
