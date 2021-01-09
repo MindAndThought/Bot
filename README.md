@@ -5,7 +5,7 @@ Personal Assistant built in Python
 This CLI (at the moment) application is a project I'm doing along with my subscribers on YouTube while live streaming. You can join live streams by subscribing <a href="https://www.youtube.com/stevesteacher" target="_blank">right here</a>. If you'd like to see the development, you can watch the live streams after the actual stream.
 
 ## Next live stream
-<b>Saturday, 10 Jan 2021, 18:30</b> (probably)
+<b>Saturday, 16 Jan 2021, 18:00</b> (probably)
 
 ## Links to previous live streams
 <p class="part">Part 1</p>
