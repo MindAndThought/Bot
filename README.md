@@ -1,14 +1,6 @@
 # Personal Assistant
 Personal Assistant built in Python
 
-<style>
-.part{
-    font-size:1.3rem;
-    font-weight: bold;
-    font-family: monospace;
-}
-</style>
-
 ## About
 This CLI (at the moment) application is a project I'm doing along with my subscribers on YouTube while live streaming. You can join live streams by subscribing <a href="https://www.youtube.com/stevesteacher" target="_blank">right here</a>. If you'd like to see the development, you can watch the live streams after the actual stream.
 
